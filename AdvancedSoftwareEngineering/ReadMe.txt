@@ -1,0 +1,1 @@
+These solutions were made with basically zero understanding of coding. Therefore, they are extremely rough, however are kept solely for reflective purposes, and to reflect on how solutions were developed.
